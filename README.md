@@ -18,7 +18,8 @@ Predictive Stabilization: Utilize historical data to forecast future glucose mov
  * Glory Blue Interface: High-intensity 3px borders with a neon blue "wake up" glow on hover for every metric card.
  * Telemetry Matrix Flux: A massive 65% height-weighted charting area with a 50px precision grid.
  * Zero-Cursive Typography: Heavy-weight (1000) non-italicized fonts for maximum industrial-grade readability.
-   - Tech Stack & Dependencies
+
+Tech Stack & Dependencies
  React.js (Vite),Tailwind CSS,Lucide React,JavaScript,PapaParse,Recharts,Node.js         |
 
 > Medical Disclaimer: This software is a data visualization tool built for research and simulation using the OhioT1DM dataset. It is NOT a medical device and should NOT be used to determine actual insulin dosages for patients.
