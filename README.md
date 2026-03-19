@@ -1,4 +1,6 @@
 CGM TELEMETRY SYSTEM
+
+
 Continuous Glucose Monitoring Visualization & Insulin Optimization
 Core Project Objective
 The primary objective  of this system is Precision Glycemic Control. By analyzing real-time Continuous Glucose Monitor (CGM) telemetry, the project aims to:
