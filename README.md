@@ -20,6 +20,6 @@ Predictive Stabilization: Utilize historical data to forecast future glucose mov
  * Zero-Cursive Typography: Heavy-weight (1000) non-italicized fonts for maximum industrial-grade readability.
 
 Tech Stack & Dependencies
- React.js (Vite),Tailwind CSS,Lucide React,JavaScript,PapaParse,Recharts,Node.js         |
+ * React.js (Vite),Tailwind CSS,Lucide React,JavaScript,PapaParse,Recharts,Node.js         |
 
 > Medical Disclaimer: This software is a data visualization tool built for research and simulation using the OhioT1DM dataset. It is NOT a medical device and should NOT be used to determine actual insulin dosages for patients.
