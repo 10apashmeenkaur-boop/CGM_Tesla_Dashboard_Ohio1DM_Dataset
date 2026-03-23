@@ -24,7 +24,6 @@ Predictive Stabilization: Utilize historical data to forecast future glucose mov
  Key UI Features
  * Glory Blue Interface: High-intensity 3px borders with a neon blue "wake up" glow on hover for every metric card.
 
-https://github.com/user-attachments/assets/1c1b71c4-b770-4fca-938f-e7dff9709a23
 
 
  * Telemetry Matrix Flux: A massive 65% height-weighted charting area with a 50px precision grid.
